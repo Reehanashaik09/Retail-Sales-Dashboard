@@ -4,14 +4,14 @@
 Analyze retail transactional data from the Superstore Sales Dataset to track overall revenue, profitability, sales trends over time, product category/sub-category performance, and regional variations for management reporting.
 
 ## 2. Dataset & Tools
-- **Dataset:** [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (Kaggle)
+- **Dataset:** Superstore Sales Dataset (Kaggle)
 - **Tool:** Microsoft Power BI Desktop
 
 ## 3. Data Preparation & KPI Metrics
 - Cleaned transactional records and verified data types and date hierarchies (`Year`, `Quarter`, `Month`, `Day`).
 - Designed core KPI cards:
-  - **Total Sales:** $2.30M
-  - **Total Profit:** $286.40K
+  - **Total Sales:** 2.30M
+  - **Total Profit:** 286.40K
   - **Profit Margin %:** 12.47%
 
 ## 4. Dashboard Visuals & Interactivity
